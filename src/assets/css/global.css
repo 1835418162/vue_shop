@@ -2,7 +2,22 @@
 html,
 body,
 #app {
-  height: 100%;
-  margin: 0;
-  padding: 0;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.el-breadcrumb {
+	font-size: 12px;
+	margin-bottom: 15px;
+}
+
+.box-card {
+	box-shadow: 1px 1px 10px black !important;
+
+}
+
+.el-table {
+	margin-top: 15px;
+	font-size: 12px;
 }
